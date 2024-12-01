@@ -1,0 +1,1 @@
+http://localhost:9192/api/v1/generate?prompt="What is the capital of India?"

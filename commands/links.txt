@@ -1,0 +1,5 @@
+
+https://youtu.be/5ecArhs6d7I
+
+https://github.com/Java-Techie-jt/spring-ai-llama2 ==> javatechie project github
+https://github.com/ollama/ollama ==> take the ollama docker image

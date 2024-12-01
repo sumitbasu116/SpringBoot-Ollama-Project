@@ -1,0 +1,13 @@
+
+run the ollama docker image:
+Recommended
+docker compose -f docker-compose.yml up ==> go inside the project and compose the docker-compose.yml file
+
+OR
+Directly run the ollama docker image into the docker container:
+docker run -p 11434 ollama/ollama
+
+load the ollama model:
+winpty docker exec -it ollama ollama run llama3.2:1b ==> 4GB RAM is fine
+winpty docker exec -it ollama ollama run llama2 ==> min RAM should be 8GB
+
